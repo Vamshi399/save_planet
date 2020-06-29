@@ -1,4 +1,4 @@
-# tourismandco
+# Saving the Planet(flutterhackathon)
 
 A example Flutter app used for [](https://fluttercrashcourse.com), which displays Saving the Planet and What we’ve learned during the pandemic. Below is a list item shows a nice detail page where you can have 11 CLIMATE ACTIONS FOR THE PLANET DURING A PANDEMIC.
 
