@@ -11,7 +11,7 @@ class TextSection extends StatelessWidget {
       decoration: BoxDecoration(
         color: _color,
       ),
-      child: Text('11 ACTIONS FOR THE PLANET DURING A PANDEMIC'),
+      child: Text('11 CLIMATE ACTIONS FOR THE PLANET DURING A PANDEMIC'),
     );
   }
 }
